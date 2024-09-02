@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoApp.Data", "ProdutoApp.Data\ProdutoApp.Data.csproj", "{6CE91FB2-A037-49F9-930A-121E69152DF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoApp.API", "ProdutoAPP.API\ProdutoApp.API.csproj", "{DF64C0FA-44DC-48A1-9EB7-1500DDA444DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE91FB2-A037-49F9-930A-121E69152DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE91FB2-A037-49F9-930A-121E69152DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE91FB2-A037-49F9-930A-121E69152DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE91FB2-A037-49F9-930A-121E69152DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF64C0FA-44DC-48A1-9EB7-1500DDA444DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF64C0FA-44DC-48A1-9EB7-1500DDA444DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF64C0FA-44DC-48A1-9EB7-1500DDA444DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF64C0FA-44DC-48A1-9EB7-1500DDA444DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B49511-757C-441C-8AD6-22595363B7B6}
+	EndGlobalSection
+EndGlobal
